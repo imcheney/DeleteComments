@@ -80,7 +80,7 @@ def trim_file(src_filename):
 
 if __name__ == '__main__':
     global code_type
-    if len(sys.arv) == 3:
+    if len(sys.argv) == 3:
         path = sys.argv[1]
         code_type = sys.argv[2]
     elif len(sys.argv) == 2:
