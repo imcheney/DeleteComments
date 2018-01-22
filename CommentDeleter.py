@@ -1,7 +1,6 @@
 """
 CommentDeleter Version 1.0
 Xiaolong Chen
-NetEase Inc.
 """
 
 import os
